@@ -24,7 +24,7 @@ posts = [
         'author': 'Swagato Bag',
         'title': 'Placed in HRC!',
         'content': 'I am very glad to say, after a lot work experience finally placed in HRC',
-        'date': 'Aug 20, 2021'
+        'date': 'Aug 15, 2021'
     }
 ]
 
