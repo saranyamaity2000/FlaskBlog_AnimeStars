@@ -1,5 +1,6 @@
-from main import app
+from main import create_app
 
+app = create_app()
 
 # most of the time we will be using
 # export FLASK_APP='run.py'
